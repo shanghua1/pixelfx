@@ -71,6 +71,7 @@ import * as lightning_thunderclap from "./lightning/thunderclap.js";
 import * as lightning_zap_hit from "./lightning/zap-hit.js";
 import * as scifi_emp_blast from "./scifi/emp-blast.js";
 import * as scifi_energy_core from "./scifi/energy-core.js";
+import * as scifi_event_horizon from "./scifi/event-horizon.js";
 import * as scifi_force_field from "./scifi/force-field.js";
 import * as scifi_glitch from "./scifi/glitch.js";
 import * as scifi_hologram from "./scifi/hologram.js";
@@ -319,6 +320,7 @@ export const effects = {
   "lightning/zap-hit": lightning_zap_hit,
   "scifi/emp-blast": scifi_emp_blast,
   "scifi/energy-core": scifi_energy_core,
+  "scifi/event-horizon": scifi_event_horizon,
   "scifi/force-field": scifi_force_field,
   "scifi/glitch": scifi_glitch,
   "scifi/hologram": scifi_hologram,
