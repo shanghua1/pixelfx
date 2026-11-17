@@ -122,7 +122,7 @@ holograms, shields, scanners, warps.
 |---|---|---|---|---|
 | EMP blast | `scifi/emp-blast` | one-shot 3.2s | 152×116 | A disc charge ticks, pops white, and a bubble of rolling scanlines swells out with arcs crawling its skin; it strobes, tears and shorts out into falling dead pixels. |
 | Energy core | `scifi/energy-core` | loop 2.4s | 112×100 | A plasma core beating in a steel cage: it swells and throws a shock ring on each beat, two tilted rings orbit it, and arcs jump to the bars and spark. |
-| Event horizon | `scifi/event-horizon` | loop 6s | 400×300 | A pitch-black circular event horizon, a thin photon ring, and an inclined golden disk whose far side returns as arcs above and below while sparks spiral in. |
+| Event horizon | `scifi/event-horizon` | loop 4s | 200×150 | Hot gas streaks along a thin inclined disk around a black circular shadow; the right limb blazes, and the far side bends into a crescent on the photon rim. |
 | Force field | `scifi/force-field` | loop 2.4s | 184×104 | A glassy dome of hex plates over the hero: plates glint, tracers from the right slam into it, a ripple and cracks of light race across, sparks glance off. |
 | Glitch | `scifi/glitch` | loop 2.4s | 88×64 | The hero's signal breaks up in bursts: an RGB split, slices torn sideways, rows smeared out, junk blocks and dead pixels, then snaps back clean. |
 | Hologram | `scifi/hologram` | loop 4s | 112×104 | A floor projector throws a cone of light holding a turning wireframe model: scanlines roll through it, a data ring circles it, and it flickers, tears and jitters. |
