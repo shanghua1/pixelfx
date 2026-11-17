@@ -1,6 +1,6 @@
 # Catalog
 
-244 effects in 21 categories. Every one is a file in
+245 effects in 21 categories. Every one is a file in
 `src/fx/<category>/<name>.js`; render any of them with `node tools/render.mjs <id> --gif`.
 
 ## moves
@@ -122,6 +122,7 @@ holograms, shields, scanners, warps.
 |---|---|---|---|---|
 | EMP blast | `scifi/emp-blast` | one-shot 3.2s | 152×116 | A disc charge ticks, pops white, and a bubble of rolling scanlines swells out with arcs crawling its skin; it strobes, tears and shorts out into falling dead pixels. |
 | Energy core | `scifi/energy-core` | loop 2.4s | 112×100 | A plasma core beating in a steel cage: it swells and throws a shock ring on each beat, two tilted rings orbit it, and arcs jump to the bars and spark. |
+| Event horizon | `scifi/event-horizon` | one-shot 7.1s | 420×300 | Sprite Fusion's black hole: a lensed orange disk and dark shadow, a bright rim, debris pulled in, then a collapse. |
 | Force field | `scifi/force-field` | loop 2.4s | 184×104 | A glassy dome of hex plates over the hero: plates glint, tracers from the right slam into it, a ripple and cracks of light race across, sparks glance off. |
 | Glitch | `scifi/glitch` | loop 2.4s | 88×64 | The hero's signal breaks up in bursts: an RGB split, slices torn sideways, rows smeared out, junk blocks and dead pixels, then snaps back clean. |
 | Hologram | `scifi/hologram` | loop 4s | 112×104 | A floor projector throws a cone of light holding a turning wireframe model: scanlines roll through it, a data ring circles it, and it flickers, tears and jitters. |
