@@ -2,6 +2,8 @@
 
 **Hugo Duprez.** `src/core/sim.js` and the effects that say so at the top of their file adapt Sprite Fusion's
 open-source pixel art VFX (https://www.spritefusion.com/pixel-art-vfx), Copyright (c) 2026 Hugo Duprez, MIT License.
+`src/fx/scifi/_sf-black-hole.js` is that black-hole file with types removed, from
+https://www.spritefusion.com/downloads/pixel-art-vfx/black-hole.zip . `src/fx/scifi/event-horizon.js` plays it.
 
 **Hollow Crown.** `src/core/act.js` adapts how Hollow Crown plays its skills (poses on 12 fps steps, hit-stops, the springy
 straw target), from
